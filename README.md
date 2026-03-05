@@ -2,6 +2,10 @@
 
 A collection of source code modules and scripts from previous engineering and research projects, focusing on aerospace dynamics and orbital mechanics.
 
+The complete UCSC Rocket team repo is not public, so I included only files that I implemented (servo_drivers.cpp and rocket.py)
+
+
+
 ---
 
 ## Project Overview
