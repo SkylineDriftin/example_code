@@ -22,8 +22,8 @@ The complete UCSC Rocket team repo is not public, so I included only files that 
 **File:** `OD_Code_Clean.ipynb`  
 **Language:** Python (Jupyter Notebook)  
 **Context:** Research conducted at the Summer Science Program (SSP) utilizing university telescope observations.  
-* Implements the **Method of Gauss** to determine the orbital elements of observed asteroids.
-* Extracts and processes position and velocity vectors from JPL ephemeris data.
+* Implements the Method of Gauss to determine the orbital elements of observed asteroids.
+* Extracts and processes position and velocity vectors from data extracted from data collected by me and my partners at the Colorado University of Boulder's Sommers-Bausch Observatory
 * Calculates fundamental orbital elements including semi-major axis, eccentricity, inclination, and longitude of ascending node.
 
 ### 3. Rigid Body Rocket Simulation
